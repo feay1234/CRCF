@@ -1,6 +1,6 @@
 # Contextual Recurrent Collaborative Filtering framework (CRCF)
 
-This is our implementation for the paper:
+This is our implementation for the article:
 
 A Contextual Recurrent Collaborative Filtering Framework for Modelling Sequences of Venue Checkins. Jarana Manotumruksa, Craig Macdonald and Iadh Ounis. Information Processing and Management Journal 2019.
 
