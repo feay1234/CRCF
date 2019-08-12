@@ -1,4 +1,4 @@
-# Contextual Recurrent Collaborative Filtering framework (CRCF) for Context-aware Venue Recommendation
+# Contextual Recurrent Collaborative Filtering framework (CRCF)
 
 This is our implementation for the paper:
 
